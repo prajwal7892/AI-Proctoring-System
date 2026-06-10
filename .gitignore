@@ -1,0 +1,8 @@
+venv311/
+**pycache**/
+*.db
+*.pyc
+alerts/
+reports/
+.pt
+yolov8n.pt
